@@ -6,4 +6,4 @@ The Simon game consists of a round plastic device with four large coloured butto
 
 The game starts with a simple sequence of only one button, and as the player successfully repeats each sequence, the game progressively becomes more challenging by adding one more step to the sequence. The game continues until the player makes a mistake by pressing the wrong button or pressing the buttons out of order. 
 
-website link: https://wctseng99.github.io/Simon/
+website: https://wctseng99.github.io/Simon/
